@@ -35,7 +35,7 @@ Based on RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Tele
 ## How To Host
 Deploy ProjectDils to Heroku:
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aidilaryanto/ProjectDils/tree/master"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/GbeshMod/ProjectDils/tree/master"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
 
 ## Generate String Session
 Generate string session on Repl.it:
